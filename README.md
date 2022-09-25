@@ -6,9 +6,11 @@ Name: M Fayaz
 
 Presenting the project - Grocery app!
 
-SmartInternz profile:-https://smartinternz.com/Student/guided_project_workspace/99753
+SmartInternz profile:- https://smartinternz.com/Student/guided_project_workspace/99753
 
-google developer Profile:-https://developers.google.com/profile/u/113585614108740736186
+google developer Profile:- https://developers.google.com/profile/u/113585614108740736186
+
+Demo Video:- https://youtu.be/fqrPeDjSIA4
   
 
 All Projects Module Wise-
